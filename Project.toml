@@ -2,3 +2,6 @@ name = "Multilingual"
 uuid = "37ffc9f5-fc18-4d74-a3a1-4ef880f3fe1b"
 authors = ["Ajdavidl <78770941+ajdavidl@users.noreply.github.com>"]
 version = "0.1.0"
+
+[deps]
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
