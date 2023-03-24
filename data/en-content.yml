@@ -1,0 +1,32 @@
+colors:
+  black: black
+  white: white
+  red: red
+  yellow: yellow
+  blue: blue
+  green: green
+  brown: brown
+  pink: pink
+  orange: orange
+  grey: grey
+  purple: purple
+  beige: beige
+  silver: silver
+  gold: gold
+family:
+  family: family
+  parents: parents
+  father: father
+  mother: mother
+  children: children
+  son: son
+  daughter: daughter
+  husband: husband
+  wife: wife
+  brother: brother
+  sister: sister
+  uncle: uncle
+  aunt: aunt
+  cousin: cousin
+  nephew: nephew
+  niece: niece

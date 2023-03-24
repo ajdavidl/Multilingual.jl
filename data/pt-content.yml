@@ -1,0 +1,32 @@
+colors:
+  black: preto
+  white: branco
+  red: vermelho
+  yellow: amarelo
+  blue: azul
+  green: verde
+  brown: marrom
+  pink: rosa
+  orange: laranja
+  grey: cinza
+  purple: roxo
+  beige: bege
+  silver: prata
+  gold: ouro
+family:
+  family: família
+  parents: pais
+  father: pai
+  mother: mãe
+  children: filhos
+  son: filho
+  daughter: filha
+  husband: marido
+  wife: esposa
+  brother: irmão
+  sister: irmã
+  uncle: tio
+  aunt: tia
+  cousin: primo
+  nephew: sobrinho
+  niece: sobrinha
