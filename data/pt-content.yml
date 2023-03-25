@@ -1,15 +1,25 @@
 colors:
-  black: preto
-  white: branco
-  red: vermelho
-  yellow: amarelo
+  black: 
+    - preto
+    - preta
+  white: 
+    - branco
+    - branca
+  red: 
+    - vermelho
+    - vermelha
+  yellow: 
+    - amarelo
+    - amarela
   blue: azul
   green: verde
   brown: marrom
   pink: rosa
   orange: laranja
   grey: cinza
-  purple: roxo
+  purple: 
+    - roxo
+    - roxa
   beige: bege
   silver: prata
   gold: ouro
@@ -30,3 +40,52 @@ family:
   cousin: primo
   nephew: sobrinho
   niece: sobrinha
+  grandfather:
+    - vovô
+    - avô
+  grandmother:
+    - vovó
+    - avó
+  grandchildren: 
+    - netos
+    - netas
+  grandson: neto
+  granddaughter: neta
+  father-in-law: sogro
+  mother-in-law: sogra
+  brother-in-law: cunhado
+  sister-in-law: cunhada
+week:
+  week: semana
+  weekend: fim de semana
+  Monday: segunda-feira
+  Tuesday: terça-feira
+  Wednesday: quarta-feira
+  Thursday: quinta-feira
+  Friday: sexta-feira
+  Saturday: sábado
+  Sunday: domingo
+months:
+  January: janeiro
+  February: fevereiro
+  March: março
+  April: abril
+  May: maio
+  June: junho
+  July: julho
+  August: agosto
+  September: setembro
+  October: outubro
+  November: novembro
+  December: dezembro
+seasons:
+  Spring: primavera
+  Summer: verão
+  Autumn: outono
+  Winter: inverno
+greetings:
+  welcome: 
+    - bem-vindo
+    - bem-vinda
+    - bem-vindos
+    - bem-vindas
