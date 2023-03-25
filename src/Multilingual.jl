@@ -2,12 +2,16 @@ module Multilingual
 
 import YAML
 
-export content
+export content, readData
+function readData(language::AbstractString)
+
+    filename = joinpath(@__DIR__, "..", "data", language * "-content.yml")
+    return YAML.load_file(filename)
+end
 
 function content(language::AbstractString, category::AbstractString)
     @assert language in ["pt", "en"]
-    filename = joinpath(@__DIR__, "..", "data", language * "-content.yml")
-    data = YAML.load_file(filename)
+    data = readData(language)
     Keys = keys(data)
     if category in Keys
         for (i, j) in data[category]
