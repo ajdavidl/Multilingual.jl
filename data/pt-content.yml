@@ -89,3 +89,6 @@ greetings:
     - bem-vinda
     - bem-vindos
     - bem-vindas
+  hello:
+    - olá
+    - oi

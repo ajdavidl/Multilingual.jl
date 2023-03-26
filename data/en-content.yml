@@ -75,3 +75,6 @@ seasons:
   Winter: Winter
 greetings:
   welcome: welcome
+  hello: 
+    - hello
+    - hi
