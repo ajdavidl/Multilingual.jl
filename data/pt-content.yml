@@ -37,7 +37,9 @@ family:
   sister: irmã
   uncle: tio
   aunt: tia
-  cousin: primo
+  cousin: 
+    - primo
+    - prima
   nephew: sobrinho
   niece: sobrinha
   grandfather:

@@ -1,0 +1,94 @@
+colors:
+  black: 
+    - negro
+    - negra
+  white: 
+    - blanco
+    - blanca
+  red: 
+    - rojo
+    - roja
+  yellow: 
+    - amarillo
+    - amarilla
+  blue: azul
+  green: verde
+  brown: marrón
+  pink: 
+    - rosa
+    - rosado
+  orange: naranja
+  grey: gris
+  purple: morado
+  beige: beige
+  silver: 
+    - plata
+    - plateado
+  gold: 
+    - oro
+    - dorado
+family:
+  family: familia
+  parents: padres
+  father: padre
+  mother: madre
+  children: hijos
+  son: hijo
+  daughter: hija
+  husband: 
+    - marido
+    - esposo
+  wife: esposa
+  brother: hermano
+  sister: hermana
+  uncle: tío
+  aunt: tía
+  cousin: 
+  - primo
+  - prima
+  nephew: sobrino
+  niece: sobrina
+  grandfather: abuelo
+  grandmother: abuela
+  grandchildren: 
+    - nietos
+    - nietas
+  grandson: nieto
+  granddaughter: nieta
+  father-in-law: suegro
+  mother-in-law: suegra
+  brother-in-law: cuñado
+  sister-in-law: cuñada
+week:
+  week: semana
+  weekend: fin de semana
+  Monday: lunes
+  Tuesday: martes
+  Wednesday: miércoles
+  Thursday: jueves
+  Friday: viernes
+  Saturday: sábado
+  Sunday: domingo
+months:
+  January: enero
+  February: febrero
+  March: marzo
+  April: abril
+  May: mayo
+  June: junio
+  July: julio
+  August: agosto
+  September: septiembre
+  October: octubre
+  November: noviembre
+  December: diciembre
+seasons:
+  Spring: primavera
+  Summer: verano
+  Autumn: otoño
+  Winter: invierno
+greetings:
+  welcome: 
+    - bienvenido
+    - bienvenidos
+  hello: hola

@@ -10,7 +10,7 @@ function readData(language::AbstractString)
 end
 
 function content(language::AbstractString, category::AbstractString)
-    @assert language in ["pt", "en"]
+    @assert language in ["pt", "en", "es"]
     data = readData(language)
     Keys = keys(data)
     if category in Keys
