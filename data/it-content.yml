@@ -1,0 +1,145 @@
+colors:
+  black: 
+    - nero
+    - nera
+  white: 
+    - bianco
+    - bianca
+  red: 
+    - rosso
+    - rossa
+  yellow: 
+    - giallo
+    - gialla
+  blue: 
+    - azurro
+    - azurra
+  green: verde
+  brown: marrone
+  pink: rosa
+  orange: arancione
+  grey: 
+    - grigio
+    - grigia
+  purple: 
+    - viola
+    - porpora
+  beige: beige
+  silver: argento
+  gold: 
+    - oro
+    - dorato
+family:
+  family: famiglia
+  parents: genitori
+  father: 
+    - padre
+    - papà
+  mother: 
+    - madre
+    - mamma
+  children: figli
+  son: figlio
+  daughter: figlia
+  husband: 
+    - marito
+    - sposo
+  wife: 
+    - moglie
+    - sposa
+  brother: fratello
+  sister: sorella
+  uncle: zio
+  aunt: zia
+  cousin: 
+    - cugino
+    - cugina
+  nephew: nipote
+  niece: nipote
+  grandfather: nonno
+  grandmother: nonna
+  grandchildren: nipoti
+  grandson: nipote
+  granddaughter: nipote
+  father-in-law: suocero
+  mother-in-law: suocera
+  brother-in-law: cognato
+  sister-in-law: cognata
+week:
+  week: settimana
+  weekend: fine settimana
+  Monday: lunedì
+  Tuesday: martedì
+  Wednesday: mercoledì
+  Thursday: giovedì
+  Friday: venerdì
+  Saturday: sabato
+  Sunday: domenica
+months:
+  January: gennaio
+  February: febbraio
+  March: marzo
+  April: aprile
+  May: maggio
+  June: giugno
+  July: luglio
+  August: agosto
+  September: settembre
+  October: ottobre
+  November: novembre
+  December: dicembre
+seasons:
+  Spring: primavera
+  Summer: estate
+  Autumn: autunno
+  Winter: inverno
+greetings:
+  welcome:
+    - Benvenuto
+    - Benvenuti
+    - Benvenuta
+    - Benvenute
+  hello:
+    - ciao
+    - salve
+numbers:
+  0: zero
+  1: 
+    - una
+    - uno
+  2: due
+  3: tre
+  4: quattro
+  5: cinque
+  6: sei
+  7: sette
+  8: otto
+  9: nove
+  10: dieci
+  11: undici
+  12: dodici
+  13: tredici
+  14: quattordici
+  15: quindici
+  16: sedici
+  17: diciassette
+  18: diciaotto
+  19: diciannove
+  20: venti
+  30: trenta
+  40: quaranta
+  50: cinquanta
+  60: sessanta
+  70: settanta
+  80: ottanta
+  90: novanta
+  100: cento
+  200: duecento
+  300: trecento
+  400: quattrocento
+  500: cinquecento
+  600: seicento
+  700: settecento
+  800: ottocento
+  900: novecento
+  1000: mille
