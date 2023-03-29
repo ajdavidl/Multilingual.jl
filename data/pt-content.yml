@@ -153,3 +153,65 @@ numbers:
     - novecentos
     - novecentas
   1000: mil
+animals:
+  dog: 
+    - cão
+    - cachorro
+  cat: gato
+  horse: cavalo
+  bird: pássaro
+  cow: vaca
+  pig: porco
+  whale: baleia
+  dolphin: golfinho
+  ant: formiga
+  ape: macaco
+  bat: morcego
+  bear: urso
+  beaver: castor
+  beetle: besouro
+  bull: touro
+  butterfly: borboleta
+  camel: camelo
+  crab: caranguejo
+  crocodile: crocodilo
+  duck: pato
+  eagle: águia
+  elephant: elefante
+  fly: mosca
+  fox: raposa
+  frog: sapo
+  giraffe: girafa
+  gnu: gnu
+  goat: cabra
+  goose: ganso
+  gorilla: gorila
+  hawk: falcão
+  hedgehog: ouriço
+  hippopotamus: hipopótamo
+  hyena: hiena
+  iguana: iguana
+  jellyfish: água-viva
+  kangaroo: canguru
+  koala: coala
+  ladybug: joaninha
+  lion: leão
+  monkey: macaco
+  mosquito: mosquito
+  mouse: rato
+  octopus: polvo
+  owl: coruja
+  parrot: papagaio
+  penguin: pinguim
+  pigeon: pombo
+  rabbit: coelho
+  salmon: salmão
+  seahorse: cavalo marinho
+  shark: tubarão
+  snake: cobra
+  spider: aranha
+  tiger: tigre
+  turtle: tartaruga
+  walrus: morsa
+  wolf: lobo
+  zebra: zebra

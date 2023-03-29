@@ -143,3 +143,65 @@ numbers:
   800: ottocento
   900: novecento
   1000: mille
+animals:
+  dog: cane
+  cat: gatto
+  horse: cavallo
+  bird: uccello
+  cow: mucca
+  pig: maiale
+  whale: balena
+  dolphin: delfino
+  ant: formica
+  ape: scimmia
+  bat: pipistrello
+  bear: orso
+  beaver: castoro
+  beetle: scarabeo
+  bull: toro
+  butterfly: farfalla
+  camel: cammello
+  crab: granchio
+  crocodile: coccodrillo
+  duck: anatra
+  eagle: aquila
+  elephant: elefante
+  fly: mosca
+  fox: volpe
+  frog: rana
+  giraffe: giraffa
+  gnu: gnu
+  goat: capra
+  goose: oca
+  gorilla: gorilla
+  hawk: falco
+  hedgehog: riccio
+  hippopotamus: ippopotamo
+  hyena: iena
+  iguana: iguana
+  jellyfish: medusa
+  kangaroo: canguro
+  koala: koala
+  ladybug: coccinella
+  lion: leone
+  monkey: scimmia
+  mosquito: zanzara
+  mouse: topo
+  octopus: polpo
+  owl: gufo
+  parrot: pappagallo
+  penguin: pinguino
+  pigeon: piccione
+  rabbit: coniglio
+  salmon: salmone
+  seahorse: cavalluccio marino
+  shark: squalo
+  snake: serpente
+  spider: ragno
+  tiger: tigre
+  turtle: tartaruga
+  walrus: tricheco
+  wolf: lupo
+  zebra: zebra
+
+

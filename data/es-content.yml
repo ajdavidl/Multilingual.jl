@@ -134,4 +134,64 @@ numbers:
   800: ochocientos
   900: novecientos
   1000: mil
+animals:
+  dog: perro
+  cat: gato
+  horse: caballo
+  bird: pájaro
+  cow: vaca
+  pig: cerdo
+  whale: ballena
+  dolphin: delfín
+  ant: hormiga
+  ape: mono
+  bat: murciélago
+  bear: oso
+  beaver: castor
+  beetle: escarabajo
+  bull: toro
+  butterfly: mariposa
+  camel: camello
+  crab: cangrejo
+  crocodile: cocodrilo
+  duck: pato
+  eagle: águila
+  elephant: elefante
+  fly: mosca
+  fox: zorro
+  frog: rana
+  giraffe: jirafa
+  gnu: ñu
+  goat: cabra
+  goose: ganso
+  gorilla: gorila
+  hawk: halcón
+  hedgehog: erizo
+  hippopotamus: hipopótamo
+  hyena: hiena
+  iguana: iguana
+  jellyfish: medusa
+  kangaroo: canguro
+  koala: koala
+  ladybug: mariquita
+  lion: león
+  monkey: mono
+  mosquito: mosquito
+  mouse: ratón
+  octopus: pulpo
+  owl: búho
+  parrot: loro
+  penguin: pingüino
+  pigeon: paloma
+  rabbit: conejo
+  salmon: salmón
+  seahorse: caballito del mar
+  shark: tubarón
+  snake: serpiente
+  spider: araña
+  tiger: tigre
+  turtle: tortuga
+  walrus: morsa
+  wolf: lobo
+  zebra: cebra
 
