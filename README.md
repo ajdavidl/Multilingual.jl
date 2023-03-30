@@ -14,6 +14,7 @@ Available languages:
 - Spanish
 - Italian
 - French
+- German
 
 Available categories:
 - colors
