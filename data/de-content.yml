@@ -1,0 +1,175 @@
+colors:
+  black: schwarz
+  white: weiß
+  red: rot
+  yellow: gelb
+  blue: blau
+  green: grün
+  brown: braun
+  pink: rosa
+  orange: orange
+  grey: grau
+  purple: 
+    - lila
+    - violett
+  beige: beige
+  silver: silber
+  gold: gold
+family:
+  family: die Familie
+  parents: die Eltern
+  father: der Vater
+  mother: die Mutter
+  children: die Kinder
+  son: der Sohn
+  daughter: die Tochter
+  husband: der Mann
+  wife: die Frau
+  brother: der Bruder
+  sister: die Schwester
+  uncle: der Onkel
+  aunt: die Tante
+  cousin: 
+    - der Cousin
+    - die Cousine
+  nephew: der Neffe
+  niece: die Nichte
+  grandfather: der Großvater
+  grandmother: die Großmutter
+  grandchildren: die Enkelkinder
+  grandson: der Enkel
+  granddaughter: die Enkelin
+  father-in-law: der Schwiegervater
+  mother-in-law: die Schwiegermutter
+  brother-in-law: der Schwager
+  sister-in-law: die Schwägerin
+week:
+  week: Woche
+  weekend: Wochenende
+  Monday: Montag
+  Tuesday: Dienstag
+  Wednesday: Mittwoch
+  Thursday: Donnerstag
+  Friday: Freitag
+  Saturday: Samstag
+  Sunday: Sonntag
+months:
+  January: Januar
+  February: Februar
+  March: März
+  April: April
+  May: Mai
+  June: Juni
+  July: Juli
+  August: August
+  September: September
+  October: Oktober
+  November: November
+  December: Dezember
+seasons:
+  Spring: Frühling
+  Summer: Sommer
+  Autumn: Herbst
+  Winter: Winter
+greetings:
+  welcome: Willkommen
+  hello: Hallo
+numbers:
+  0: "null"
+  1: eins
+  2: zwei
+  3: drei
+  4: vier
+  5: fünf
+  6: sechs
+  7: sieben
+  8: acht
+  9: neun
+  10: zehn
+  11: elf
+  12: zwölf
+  13: dreizehn
+  14: vierzehn
+  15: fünfzehn
+  16: sechzehn
+  17: siebzehn
+  18: achtzehn
+  19: neunzehn
+  20: zwanzig
+  30: dreißig
+  40: vierzig
+  50: fünfzig
+  60: sechzig
+  70: siebzig
+  80: achtzig
+  90: neunzig
+  100: hundert
+  200: zweihundert
+  300: dreihundert
+  400: vierhundert
+  500: fünfhundert
+  600: sechshundert
+  700: siebenhundert
+  800: achthundert
+  900: neunhundert
+  1000: tausend
+animals:
+  dog: Hund
+  cat: Katze
+  horse: Pferd
+  bird: Vogel
+  cow: Kuh
+  pig: Schwein
+  whale: Wal
+  dolphin: Delphin
+  ant: Ameise
+  ape: Affe
+  bat: Fledermaus
+  bear: Bär
+  beaver: Biber
+  beetle: Käfer
+  bull: Stier
+  butterfly: Schmetterling
+  camel: Kamel
+  crab: Krabbe
+  crocodile: Krokodil
+  duck: Ente
+  eagle: Adler
+  elephant: Elefant
+  fly: Fliege
+  fox: Fuchs
+  frog: Frosch
+  giraffe: Giraffe
+  gnu: Gnu
+  goat: Ziege
+  goose: Gans
+  gorilla: Gorilla
+  hawk: Habicht
+  hedgehog: Igel
+  hippopotamus: Nilpferd
+  hyena: Hyäne
+  iguana: Leguan
+  jellyfish: Qualle
+  kangaroo: Känguru
+  koala: Koala
+  ladybug: Marienkäfer
+  lion: Löwe
+  monkey: Affe
+  mosquito: Mücke
+  mouse: Maus
+  octopus: Oktopus
+  owl: Eule
+  parrot: Papagei
+  penguin: Pinguin
+  pigeon: Taube
+  rabbit: Kaninchen
+  salmon: Lachs
+  seahorse: Seepferdchen
+  shark: Hai
+  snake: Schlange
+  spider: Spinne
+  tiger: Tiger
+  turtle: Schildkröte
+  walrus: Walross
+  wolf: Wölfe
+  zebra: Zebra
