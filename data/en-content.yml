@@ -177,3 +177,28 @@ animals:
   walrus: walrus
   wolf: wolf
   zebra: zebra
+shapes:
+  square: square
+  rectangle: rectangle
+  triangle: triangle
+  circle: circle
+  oval: oval
+  diamond: diamond
+  heart: heart
+  star: star
+  pentagon: pentagon
+  hexagon: hexagon
+  heptagon: heptagon
+  octagon: octagon
+  parallelogram: parallelogram
+  trapezoid: trapezoid
+  rhombus: rhombus
+  cross: cross
+  semicircle: semicircle
+  sphere: sphere
+  cylinder: cylinder
+  cube: cube
+  cone: cone
+  pyramid: pyramid
+  octahedron: octahedron
+  dodecahedron: dodecahedron
