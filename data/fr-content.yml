@@ -203,4 +203,32 @@ animals:
   walrus: morse
   wolf: loup
   zebra: zèbra
+shapes:
+  square: carré
+  rectangle: rectangle
+  triangle: triangle
+  circle: cercle
+  oval: ovale
+  diamond: losange
+  heart: cœur
+  star: étoile
+  pentagon: pentagon
+  hexagon: hexagon
+  heptagon: heptagone
+  octagon: octagone
+  parallelogram: parallélogramme
+  trapezoid: trapèze
+  rhombus: rhombe
+  cross: croix
+  semicircle: demi-cercle
+  sphere: sphère
+  cylinder: cylindre
+  cube: cube
+  cone: cône
+  pyramid: pyramide
+  octahedron: octaèdre
+  dodecahedron: dodécaèdre 
+
+
+
 

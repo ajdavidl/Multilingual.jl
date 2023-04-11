@@ -203,5 +203,30 @@ animals:
   walrus: tricheco
   wolf: lupo
   zebra: zebra
+shapes:
+  square: quadrato
+  rectangle: rettangolo
+  triangle: triangolo
+  circle: cerchio
+  oval: ovale
+  diamond: rombo
+  heart: cuore
+  star: stella
+  pentagon: pentagono
+  hexagon: esagono
+  heptagon: ettagono
+  octagon: ottagono
+  parallelogram: parallelogramma
+  trapezoid: trapezio
+  rhombus: rombo
+  cross: croce
+  semicircle: semicerchio
+  sphere: sfera
+  cylinder: cilindro
+  cube: cubo
+  cone: cono
+  pyramid: piramide
+  octahedron: ottaedro
+  dodecahedron: dodecaedro
 
 

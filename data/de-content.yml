@@ -173,3 +173,28 @@ animals:
   walrus: Walross
   wolf: Wölfe
   zebra: Zebra
+shapes:
+  square: das Quadrat
+  rectangle: das Rechteck
+  triangle: das Dreieck
+  circle: der Kreis
+  oval: das Oval
+  diamond: der Rhombus
+  heart: das Herz
+  star: der Stern
+  pentagon: das Fünfeck
+  hexagon: das Sechseck
+  heptagon: das Siebeneck
+  octagon: das Achteck
+  parallelogram: das Parallelogramm
+  trapezoid: das Trapez
+  rhombus: die Raute
+  cross: das Kreuz
+  semicircle: der Halbkreis
+  sphere: die Kugel
+  cylinder: der Zylinder
+  cube: der Würfel
+  cone: der Kegel
+  pyramid: die Pyramide
+  octahedron: das Oktaeder
+  dodecahedron: das Dodekaeder
