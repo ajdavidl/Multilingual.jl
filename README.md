@@ -25,6 +25,7 @@ Available categories:
 - greetings
 - numbers
 - animals
+- shapes
 
 ## Usage
 
