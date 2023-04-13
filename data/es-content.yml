@@ -218,5 +218,35 @@ shapes:
   pyramid: pirámide
   octahedron: octaedro
   dodecahedron: dodecaedro
+body:
+  head: cabeza
+  eye: ojo
+  ear: oreja
+  nose: nariz
+  mouth: boca
+  lips: labios
+  teeth: dientes
+  tongue: lengua
+  cheek: mejilla
+  chin: barbilla
+  neck: cuello
+  chest: pecho
+  arm: brazo
+  hand: mano
+  shoulder: hombro
+  elbow: codo
+  upper_arm: brazo
+  forearm: antebrazo
+  wrist: muñeca
+  finger: dedo
+  palm: palma
+  breasts: senos
+  belly_button: ombligo
+  legs: piernas
+  feet: pies
+  knee: rodilla
+  ankle: tobillo
+  toe: dedo del pie
+  heel: talón
 
 

@@ -202,3 +202,33 @@ shapes:
   pyramid: pyramid
   octahedron: octahedron
   dodecahedron: dodecahedron
+body:
+  head: head
+  eye: eye
+  ear: ear
+  nose: nose
+  mouth: mouth
+  lips: lips
+  teeth: teeth
+  tongue: tongue
+  cheek: cheek
+  chin: chin
+  neck: neck
+  chest: chest
+  arm: arm
+  hand: hand
+  shoulder: shoulder
+  elbow: elbow
+  upper_arm: upper arm
+  forearm: forearm
+  wrist: wrist
+  finger: finger
+  palm: palm
+  breasts: breasts
+  belly_button: belly button
+  legs: legs
+  feet: feet
+  knee: knee
+  ankle: ankle
+  toe: toe
+  heel: heel
