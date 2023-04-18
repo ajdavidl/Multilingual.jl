@@ -230,6 +230,7 @@ shapes:
   dodecahedron: dodécaèdre 
 body:
   head: tête
+  hair: cheveu
   eye: oeil
   ear: oreille
   nose: nez
@@ -249,6 +250,7 @@ body:
   forearm: avant-bras
   wrist: poignet
   finger: doigt
+  nail: ongle
   palm: paume
   breasts: seins
   belly_button: nombril

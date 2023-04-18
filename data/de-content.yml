@@ -200,6 +200,7 @@ shapes:
   dodecahedron: das Dodekaeder
 body:
   head: Kopf
+  hair: Haar
   eye: Auge
   ear: Ohr
   nose: Nase
@@ -219,6 +220,7 @@ body:
   forearm: Unterarm
   wrist: Handgelenk
   finger: Finger
+  nail: Nagel
   palm: Palme
   breasts: Brüste
   belly_button: Bauchnabel

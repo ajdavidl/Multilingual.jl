@@ -230,6 +230,7 @@ shapes:
   dodecahedron: dodecaedro
 body:
   head: testa
+  hair: capello
   eye: occhio
   ear: orecchio
   nose: naso
@@ -249,6 +250,7 @@ body:
   forearm: avambraccio
   wrist: polso
   finger: dito
+  nail: unghia
   palm: palmo
   breasts: seni
   belly_button: ombelico

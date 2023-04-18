@@ -241,6 +241,7 @@ shapes:
   dodecahedron: dodecaedro
 body:
   head: cabeça
+  hair: cabelo
   eye: olho
   ear: orelha
   nose: nariz
@@ -260,6 +261,7 @@ body:
   forearm: antebraço
   wrist: puso
   finger: dedo
+  nail: unha
   palm: palma
   breasts: 
     - peitos

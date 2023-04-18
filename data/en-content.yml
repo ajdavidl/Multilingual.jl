@@ -204,6 +204,7 @@ shapes:
   dodecahedron: dodecahedron
 body:
   head: head
+  hair: hair
   eye: eye
   ear: ear
   nose: nose
@@ -223,6 +224,7 @@ body:
   forearm: forearm
   wrist: wrist
   finger: finger
+  nail: nail
   palm: palm
   breasts: breasts
   belly_button: belly button
