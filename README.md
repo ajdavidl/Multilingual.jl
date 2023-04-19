@@ -26,6 +26,7 @@ Available categories:
 - numbers
 - animals
 - shapes
+- body
 
 ## Usage
 
