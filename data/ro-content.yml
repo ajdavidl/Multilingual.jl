@@ -1,0 +1,249 @@
+colors:
+  black:
+    - negru
+    - neagră
+  white:
+    - alb
+    - albă
+  red:
+    - roșu
+    - roșie
+  yellow: galben
+  blue: albastru
+  green: verde
+  brown: maru
+  pink: roz
+  orange: 
+    - portocaliu
+    - portocală
+  grey: gri
+  purple:
+    - mov
+    - purpuriu
+    - violet
+  beige: beige
+  silver: argint
+  gold: aur
+family:
+  family: familie
+  parents: 
+    - părinţi
+    - rude
+  father: tată
+  mother: mamă
+  children: copil
+  son: fiu
+  daughter: fiică
+  husband: soţ
+  wife: soţie
+  brother: frater
+  sister: soră
+  uncle: unchi
+  aunt: mătuşă
+  cousin: 
+    - verişor
+    - verişoară
+  nephew: nepot
+  niece: nepoată
+  grandfather: bunic
+  grandmother: bunică
+  grandchildren: nepoţi
+  grandson: nepot
+  granddaughter: nepoată
+  father-in-law: socru
+  mother-in-law: soacră
+  brother-in-law: cumnat
+  sister-in-law: cumnată
+week:
+  week: săptămână
+  weekend: sfârșit de săptămână
+  Monday: luni
+  Tuesday: marţi
+  Wednesday: miercuri
+  Thursday: joi
+  Friday: vineri
+  Saturday: sîmbătă
+  Sunday: duminică
+months:
+  January: ianuarie
+  February: februarie
+  March: martie
+  April: aprilie
+  May: mai
+  June: iunie
+  July: iulie
+  August: august
+  September: septiembrie
+  October: octombrie
+  November: noiembrie
+  December: decembrie
+seasons:
+  Spring: primăvară
+  Summer: vară
+  Autumn: toamnă
+  Winter: iarnă
+greetings:
+  welcome: 
+    - Bine ai venit
+    - Bine ați venit
+  hello: 
+    - Salut
+    - Bună ziua
+numbers:
+  0: zero
+  1: 
+    - un
+    - o
+  2: doi
+  3: trei
+  4: patru
+  5: cinci
+  6: șase
+  7: șapte
+  8: opt
+  9: nouă
+  10: zece
+  11: unsprezece
+  12: doisprezece
+  13: treisprezece
+  14: paisprezece
+  15: cincisprezece
+  16: șaisprezece
+  17: șaptesprezece
+  18: optsprezece
+  19: nouăsprezece
+  20: douăzeci
+  30: treizeci
+  40: patruzeci
+  50: cincizeci
+  60: șaizeci
+  70: șaptezeci
+  80: optzeci
+  90: nouăzeci
+  100: o sută
+  200: două sute
+  300: trei sute
+  400: patru sute
+  500: cinci sute
+  600: șase sute
+  700: șapte sute
+  800: opt sute
+  900: nouă sute
+  1000: o mie
+animals:
+  dog: câine
+  cat: pisica
+  horse: cal
+  bird: pasăre
+  cow: vaca
+  pig: porc
+  whale: balenă
+  dolphin: delfin
+  ant: furnică
+  ape: maimuţă
+  bat: liliac
+  bear: urs
+  beaver: castor
+  beetle: gândac
+  bull: taur
+  butterfly: fluture
+  camel: cămilă
+  crab: crab
+  crocodile: crocodil
+  duck: rață
+  eagle: vultur
+  elephant: elefant
+  fly: muscă
+  fox: vulpe
+  frog: broască
+  giraffe: girafa
+  gnu: gnu
+  goat: capra
+  goose: gâscă
+  gorilla: gorilă
+  hawk: uliu
+  hedgehog: arici
+  hippopotamus: hipopotam
+  hyena: hiena
+  iguana: iguana
+  jellyfish: meduză
+  kangaroo: cangur
+  koala: koala
+  ladybug: buburuză 
+  lion: leu
+  monkey: maimuță
+  mosquito: țânțar
+  mouse: şoarece
+  octopus: caracatiță
+  owl: bufniță
+  parrot: papagal
+  penguin: pinguin
+  pigeon: porumbel
+  rabbit: iepure
+  salmon: somon
+  seahorse: calut de mare
+  shark: rechin
+  snake: șarpe
+  spider: păianjen
+  tiger: tigru
+  turtle: broască țestoasă
+  walrus: morsă
+  wolf: lup
+  zebra: zebra
+shapes:
+  square: pătrat
+  rectangle: dreptunghi 
+  triangle: triunghi
+  circle: cerc
+  oval: oval
+  diamond: romb
+  heart: inimă
+  star: stea
+  pentagon: pentagon
+  hexagon: hexagon
+  heptagon: heptagon
+  octagon: octogon
+  parallelogram: paralelogram
+  trapezoid: trapez
+  rhombus: romb
+  cross: cruce
+  semicircle: semicerc
+  sphere: sfera
+  cylinder: cilindru
+  cube: cub
+  cone: con
+  pyramid: piramidă
+  octahedron: octaedru
+  dodecahedron: dodecaedru
+body:
+  head: cap
+  hair: păr 
+  eye: ochi
+  ear: ureche
+  nose: nas
+  mouth: gură
+  lips: buze
+  teeth: dinti
+  tongue: limbă
+  cheek: obraz
+  chin: bărbie
+  neck: gât
+  chest: piept
+  arm: braț
+  hand: mână
+  shoulder: umăr
+  elbow: cot
+  upper_arm: braț
+  forearm: antebraț
+  wrist: încheietura mâinii 
+  finger: deget
+  nail: unghie
+  palm:  palmă
+  breasts: sani
+  belly_button: buric
+  legs: picioare
+  feet: picioare
+  knee: genunchi
+  ankle: gleznă
+  toe: deget de la picior
+  heel: călcâi 
