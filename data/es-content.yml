@@ -252,5 +252,35 @@ body:
   ankle: tobillo
   toe: dedo del pie
   heel: talón
-
-
+fruits:
+  apple: manzana
+  appricot: albaricoque
+  avocado: aguacate
+  banana: plátano
+  blackberry: mora
+  blueberry: arándano
+  cherry: cereza
+  coconut: coco
+  drangonfruit: fruta del drangón
+  fig: higo
+  grape: uva
+  grapefruit: toronja
+  guava: guayaba
+  jackfruit: jaca
+  kiwi: kiwi
+  lemon: lemón
+  lime: lima
+  mango: mango
+  melon: melón
+  orange: naranja
+  papaya: papaya
+  peach: melocotón
+  pear: pera
+  pineapple: piña
+  plum: ciruela
+  pomegranate: granada
+  raspberry: frambuesa
+  starfruit: carambola
+  strawberry: fresa
+  tangerine: mandarina
+  watermelon: sandía

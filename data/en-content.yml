@@ -234,3 +234,35 @@ body:
   ankle: ankle
   toe: toe
   heel: heel
+fruits:
+  apple: apple
+  appricot: appricot
+  avocado: avocado
+  banana: banana
+  blackberry: blackberry
+  blueberry: blueberry
+  cherry: cherry
+  coconut: coconut
+  drangonfruit: drangonfruit
+  fig: fig
+  grape: grape
+  grapefruit: grapefruit
+  guava: guava
+  jackfruit: jackfruit
+  kiwi: kiwi
+  lemon: lemon
+  lime: lime
+  mango: mango
+  melon: melon
+  orange: orange
+  papaya: papaya
+  peach: peach
+  pear: pear
+  pineapple: pineapple
+  plum: plum
+  pomegranate: pomegranate
+  raspberry: raspberry
+  starfruit: starfruit
+  strawberry: strawberry
+  tangerine: tangerine
+  watermelon: watermelon

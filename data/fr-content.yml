@@ -260,4 +260,35 @@ body:
   ankle: cheville
   toe: orteil
   heel: talon
-
+fruits:
+  apple: pomme
+  appricot: abricot
+  avocado: avocat
+  banana: banane
+  blackberry: mûre
+  blueberry: myrtille
+  cherry: cerise
+  coconut: noix de coco
+  drangonfruit: fruit du dragon
+  fig: figue
+  grape: raisin
+  grapefruit: pamplemousse
+  guava: goyave
+  jackfruit: jacquier
+  kiwi: kiwi
+  lemon: citron
+  lime: chaux
+  mango: mangue
+  melon: melon
+  orange: orangé
+  papaya: papaye
+  peach: pêche
+  pear: poire
+  pineapple: ananas
+  plum: prune
+  pomegranate: grenade
+  raspberry: framboise
+  starfruit: carambole
+  strawberry: fraise
+  tangerine: mandarine
+  watermelon: pastèque

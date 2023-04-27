@@ -28,6 +28,7 @@ Available categories:
 - animals
 - shapes
 - body
+- fruits
 
 ## Usage
 
