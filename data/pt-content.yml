@@ -305,3 +305,29 @@ fruits:
   strawberry: morango
   tangerine: tangerina
   watermelon: melancia
+transport:
+  car : 
+    - carro
+    - automóvel
+  truck : caminhão
+  taxi : táxi
+  train : trem
+  bullet train : trem-bala
+  airplane : avião
+  zeppelin : zepelim
+  bus : 
+    - ônibus
+    - autocarro
+  bicycle : bicicleta
+  motorcycle : 
+    - moto
+    - motocicleta
+  ambulance : ambulância
+  boat : barco
+  yacht : iate
+  helicopter : helicóptero 
+  rocket : foguete
+  subway : metrô
+  tram : bonde
+  scooter : patinete
+  skateboard : skate

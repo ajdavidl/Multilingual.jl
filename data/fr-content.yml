@@ -292,3 +292,25 @@ fruits:
   strawberry: fraise
   tangerine: mandarine
   watermelon: pastèque
+transport:
+  car : voiture
+  truck : camion
+  taxi : taxi
+  train : train
+  bullet train : 
+    - train à grande vitesse
+    - TGV
+  airplane : avion
+  zeppelin : zeppelin
+  bus : bus
+  bicycle : vélo
+  motorcycle : moto
+  ambulance : ambulance
+  boat : bateau
+  yacht : yacht
+  helicopter : hélicoptère 
+  rocket : fusée
+  subway : métro
+  tram : tramway
+  scooter : scooter
+  skateboard : planche à roulettes

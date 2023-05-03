@@ -284,3 +284,26 @@ fruits:
   strawberry: fresa
   tangerine: mandarina
   watermelon: sandía
+transport:
+  car : 
+    - coche
+    - carro
+    - automóvil
+  truck : camión
+  taxi : taxi
+  train : tren
+  bullet train : tren bala
+  airplane : avión
+  zeppelin : zepelín
+  bus : autobús
+  bicycle : bicicleta
+  motorcycle : motocicleta
+  ambulance : ambulancia
+  boat : barco
+  yacht : yate
+  helicopter : helicóptero 
+  rocket : cohete
+  subway : metro
+  tram : tranvía
+  scooter : scooter
+  skateboard : monopatín

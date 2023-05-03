@@ -266,3 +266,25 @@ fruits:
   strawberry: strawberry
   tangerine: tangerine
   watermelon: watermelon
+transport:
+  car : car
+  truck : truck
+  taxi : 
+    - taxi
+    - cab
+  train : train
+  bullet train : bullet train
+  airplane : airplane
+  zeppelin : zeppelin
+  bus : bus
+  bicycle : bicycle
+  motorcycle : motorcycle
+  ambulance : ambulance
+  boat : boat
+  yacht : yacht
+  helicopter : helicopter 
+  rocket : rocket
+  subway : subway
+  tram : tram
+  scooter : scooter
+  skateboard : skateboard

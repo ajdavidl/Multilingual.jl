@@ -292,3 +292,25 @@ fruits:
   strawberry: fragola
   tangerine: mandarino
   watermelon: anguria
+transport:
+  car : 
+    - macchina
+    - automobile
+  truck : camion
+  taxi : taxi
+  train : treno
+  bullet train : tren ad alta velocità
+  airplane : aereo
+  zeppelin : zeppelin
+  bus : autobus
+  bicycle : bicicletta
+  motorcycle : motocicletta
+  ambulance : ambulanza
+  boat : barca
+  yacht : yacht
+  helicopter : elicottero 
+  rocket : razzo
+  subway : metropolitana
+  tram : tram
+  scooter : monopattino
+  skateboard : skateboard

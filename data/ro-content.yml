@@ -279,3 +279,23 @@ fruits:
   strawberry: căpşună
   tangerine: mandarină
   watermelon: pepene roșu
+transport:
+  car : mașină
+  truck : camion
+  taxi : táxi
+  train : tren
+  bullet train : tren de mare viteză
+  airplane : avion
+  zeppelin : zepelim
+  bus : autobuz
+  bicycle : bicicletă
+  motorcycle : motocicletă
+  ambulance : ambulanță
+  boat : barcă
+  yacht : yacht
+  helicopter : elicopter 
+  rocket : rachetă
+  subway : metrou
+  tram : tramvai
+  scooter : scuter
+  skateboard : skateboard
