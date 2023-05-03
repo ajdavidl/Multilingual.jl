@@ -29,6 +29,7 @@ Available categories:
 - shapes
 - body
 - fruits
+- transport
 
 ## Usage
 
