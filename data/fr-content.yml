@@ -64,6 +64,9 @@ family:
   brother-in-law: le beau-frère
   sister-in-law: la belle-sœur
 week:
+  yesterday: hier
+  today: aujourd'hui
+  tomorrow: demain
   week: semaine
   weekend: fin de semaine
   Monday: lundi

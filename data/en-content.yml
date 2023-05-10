@@ -44,6 +44,9 @@ family:
   brother-in-law: brother-in-law
   sister-in-law: sister-in-law
 week:
+  yesterday: yesterday
+  today: today
+  tomorrow: tomorrows
   week: week
   weekend: weekend
   Monday: Monday

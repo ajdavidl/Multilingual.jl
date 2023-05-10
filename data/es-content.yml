@@ -60,6 +60,9 @@ family:
   brother-in-law: cuñado
   sister-in-law: cuñada
 week:
+  yesterday: ayer
+  today: hoy
+  tomorrow: mañana
   week: semana
   weekend: fin de semana
   Monday: lunes

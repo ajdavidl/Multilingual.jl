@@ -44,6 +44,9 @@ family:
   brother-in-law: der Schwager
   sister-in-law: die Schwägerin
 week:
+  yesterday: gestern
+  today: heute
+  tomorrow: morgen
   week: Woche
   weekend: Wochenende
   Monday: Montag

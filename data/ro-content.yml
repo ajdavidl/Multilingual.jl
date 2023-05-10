@@ -55,6 +55,9 @@ family:
   brother-in-law: cumnat
   sister-in-law: cumnată
 week:
+  yesterday: ieri
+  today: astăzi
+  tomorrow: mâine
   week: săptămână
   weekend: sfârșit de săptămână
   Monday: luni

@@ -58,6 +58,9 @@ family:
   brother-in-law: cunhado
   sister-in-law: cunhada
 week:
+  yesterday: ontem
+  today: hoje
+  tomorrow: amanhã
   week: semana
   weekend: fim de semana
   Monday: segunda-feira

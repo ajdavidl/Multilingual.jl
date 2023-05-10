@@ -66,6 +66,9 @@ family:
   brother-in-law: cognato
   sister-in-law: cognata
 week:
+  yesterday: ieri
+  today: oggi
+  tomorrow: domani
   week: settimana
   weekend: fine settimana
   Monday: lunedì
