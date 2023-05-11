@@ -2,7 +2,7 @@ module Multilingual
 
 import YAML
 
-const global LANGUAGES = ["pt", "en", "es", "it", "fr", "de", "ro"]
+const global LANGUAGES = ["pt", "en", "es", "it", "fr", "de", "ro", "ca"]
 
 export content, readData, compare
 

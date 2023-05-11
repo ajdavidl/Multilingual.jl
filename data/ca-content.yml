@@ -1,0 +1,319 @@
+colors:
+  black: 
+    - negre
+    - negra
+  white: 
+    - blanc
+    - blanca
+  red: 
+    - vermell
+    - vermella
+  yellow: 
+    - groc
+    - groca
+  blue: 
+    - blau
+    - blava
+  green: 
+    - verd
+    - verda
+  brown: marró
+  pink: rosa
+  orange: taronja
+  grey: gris
+  purple: 
+    - violat
+    - porpra
+  beige: beix
+  silver: 
+    - plata
+    - platejat
+  gold: daurat
+family:
+  family: la família
+  parents: els pares
+  father: el pare
+  mother: la mare
+  children: els nens
+  son: el fill
+  daughter: la filla
+  husband: el marit
+  wife:
+    - la dona
+    - l'esposa
+  brother: el germà
+  sister: la germana
+  uncle: l'oncle
+  aunt: la tia
+  cousin: 
+    - le cosí
+    - la cosina
+  nephew: el nebot
+  niece: la neboda
+  grandfather: l'avi
+  grandmother: l'àvia
+  grandchildren: els néts
+  grandson: el nét
+  granddaughter: la néta
+  father-in-law: el sogre
+  mother-in-law: la sogra
+  brother-in-law: el cunyat
+  sister-in-law: la cunyada
+week:
+  yesterday: ahir
+  today: avui
+  tomorrow: demà
+  week: setmana
+  weekend: cap de setmana
+  Monday: dilluns
+  Tuesday: dimarts
+  Wednesday: dimecres
+  Thursday: dijous
+  Friday: divendres
+  Saturday: dissabte
+  Sunday: diumenge
+months:
+  January: gener
+  February: febrer
+  March: març
+  April: abril
+  May: maig
+  June: juny
+  July: juliol
+  August: agost
+  September: setembre
+  October: octubre
+  November: novembre
+  December: desembre
+seasons:
+  Spring: primavera
+  Summer: estiu
+  Autumn: tardor
+  Winter: hiver
+greetings:
+  welcome:
+    - benvingut
+    - benvinguda
+    - benvinguts
+    - benvingudes
+  hello: hola
+numbers:
+  0: zero
+  1:
+    - un
+    - una
+  2:
+    - dos
+    - dues
+  3: tres
+  4: quatre
+  5: cinc
+  6: sis
+  7: set
+  8: vuit
+  9: nou
+  10: deu
+  11: onze
+  12: dotze
+  13: tretze
+  14: catorze
+  15: quinze
+  16: setze
+  17: disset
+  18: divuit
+  19: dinou
+  20: vint
+  30: trenta
+  40: quaranta
+  50: cinquanta
+  60: seixanta
+  70: setanta
+  80: vuitanta
+  90: noranta
+  100: cent
+  200: dos-cents
+  300: tres-cents
+  400: quatre-cents
+  500: cinc-cents
+  600: sis-cents
+  700: set-cents
+  800: vuit-cents
+  900: nou-cents
+  1000: mil
+animals:
+  dog: gos
+  cat: gat
+  horse: cavall
+  bird: ocell
+  cow: vaca
+  pig: porc
+  whale: balena
+  dolphin: dofi
+  ant: formiga
+  ape: mico
+  bat: muricec
+  bear: ós
+  beaver: castor
+  beetle: escarabat
+  bull: toro
+  butterfly: papallona
+  camel: camell
+  crab: cranc
+  crocodile: cocodril
+  duck: ànec
+  eagle: àguila
+  elephant: elefant
+  fly: mosca
+  fox: guineu
+  frog: granota
+  giraffe: girafa
+  gnu: nyu
+  goat: cabra
+  goose: oca
+  gorilla: goril·la
+  hawk: falcó
+  hedgehog: eriçó
+  hippopotamus: hipopòtam
+  hyena: hiena
+  iguana: iguana
+  jellyfish: medusa
+  kangaroo: cangur
+  koala: coala
+  ladybug: marieta
+  lion: lleó
+  monkey: mico
+  mosquito: mosquit
+  mouse: ratolí
+  octopus: pop
+  owl: òliba
+  parrot: lloro
+  penguin: pingüí
+  pigeon: pigeon
+  rabbit: colom
+  salmon: salmó
+  seahorse: cavall marí
+  shark: tauró
+  snake: serp
+  spider: aranya
+  tiger: tigre
+  turtle: tortuga
+  walrus: morsa
+  wolf: llop
+  zebra: zebra
+shapes:
+  square: quadrat
+  rectangle: rectangle
+  triangle: triangle
+  circle: cercle
+  oval: oval
+  diamond: rombe
+  heart: cor
+  star: estrella
+  pentagon: pentàgon
+  hexagon: hexàgon
+  heptagon: heptàgon
+  octagon: octàgon
+  parallelogram: paral·lelogram
+  trapezoid: trapezi
+  rhombus: rombe
+  cross: creu
+  semicircle: semicercle
+  sphere: esfera
+  cylinder: cilindre
+  cube: cub
+  cone: con
+  pyramid: piràmide
+  octahedron: octàedre
+  dodecahedron: dodecàedre
+body:
+  head: cap
+  hair: 
+    - pèl
+    - cabell
+  eye: ull
+  ear: orella
+  nose: nas
+  mouth: boca
+  lips: llavis
+  teeth: dent
+  tongue: llengua
+  cheek: galta
+  chin: mentó
+  neck: coll
+  chest: pit
+  arm: braç
+  hand: mà
+  shoulder: espatlla
+  elbow: colze
+  upper_arm: braç
+  forearm: avantbraç
+  wrist: canell
+  finger: dit
+  nail: ungla
+  palm: palmell
+  breasts: pits
+  belly_button: llombrígol
+  legs: cames
+  feet: peus
+  knee: genoll
+  ankle: turmell
+  toe: dit del peu
+  heel: taló
+fruits:
+  apple: poma
+  appricot: albercoc
+  avocado: alvocat
+  banana: plàtan
+  blackberry: móra
+  blueberry: mirtil
+  cherry: cirera
+  coconut: coco
+  drangonfruit: fruita del drac
+  fig: figa
+  grape: raïm
+  grapefruit: aranja
+  guava: guaiaber
+  jackfruit: jaquer
+  kiwi: kiwi
+  lemon: llimona
+  lime: llima
+  mango: mango
+  melon: melò
+  orange: taronja
+  papaya: papaia
+  peach: préssec
+  pear: pera
+  pineapple: pinya
+  plum: pruna
+  pomegranate: magrana
+  raspberry: gerd
+  starfruit: carambola
+  strawberry: maduixa
+  tangerine: mandarina
+  watermelon: síndria
+transport:
+  car : 
+    - cotxe
+    - automòbil
+  truck : camió
+  taxi : taxi
+  train : tren
+  bullet train : tren bala
+  airplane : avió
+  zeppelin : zèppelin
+  bus : autobús
+  bicycle : bicicleta
+  motorcycle : motorcicleta
+  ambulance : ambulància
+  boat : 
+    - vaixell
+    - barco
+  yacht : iot
+  helicopter : helicòpter 
+  rocket : coet
+  subway : metro
+  tram : tramvia
+  scooter : 
+    - escúter
+    - patinet
+  skateboard : monopatí
