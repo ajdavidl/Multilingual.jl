@@ -291,3 +291,32 @@ transport:
   tram : tram
   scooter : scooter
   skateboard : skateboard
+astronomy :
+  Sun : Sun
+  Moon : Moon
+  star : star
+  planet : planet
+  Mercury : Mercury
+  Venus : Venus
+  Earth : Earth
+  Mars : Mars
+  Jupiter: Jupiter
+  Saturn : Saturn
+  Uranus : Uranus
+  Neptune : Neptune
+  Pluto : Pluto
+  asteroid : asteroid
+  comet : comet
+  galaxy : galaxy
+  supernova : supernova
+  black_hole : black hole
+  constellation : constellation
+  meteor : meteor
+  satellite : satellite
+  orbit : orbit
+  spacecraft : spacecraft
+  astronomer : astronomer
+  eclipse : eclipse
+  nebula : nebula
+  galaxy_cluster : galaxy cluster
+  telescope : telescope

@@ -31,6 +31,7 @@ Available categories:
 - body
 - fruits
 - transport
+- astronomy
 
 ## Usage
 

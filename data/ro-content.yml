@@ -302,3 +302,32 @@ transport:
   tram : tramvai
   scooter : scuter
   skateboard : skateboard
+astronomy :
+  Sun : Soare
+  Moon : Lună
+  star : stea
+  planet : planetă
+  Mercury : Mercur
+  Venus : Venus
+  Earth : Pământ
+  Mars : Marte
+  Jupiter: Jupiter
+  Saturn : Saturn
+  Uranus : Uranus
+  Neptune : Neptun
+  Pluto : Pluto
+  asteroid : asteroid
+  comet : comet
+  galaxy : galaxie
+  supernova : supernovă
+  black_hole : gaură neagră
+  constellation : constelație
+  meteor : meteorit
+  satellite : satelit
+  orbit : orbită
+  spacecraft : navă spațială 
+  astronomer : astronom
+  eclipse : eclipsă
+  nebula : nebuloasă
+  galaxy_cluster : cătun de galaxii
+  telescope : telescop

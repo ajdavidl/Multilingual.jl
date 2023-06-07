@@ -317,3 +317,32 @@ transport:
   tram : tramway
   scooter : scooter
   skateboard : planche à roulettes
+astronomy :
+  Sun : Soleil
+  Moon : Lune
+  star : étoile
+  planet : planète
+  Mercury : Mercure
+  Venus : Vénus
+  Earth : Terre
+  Mars : Mars
+  Jupiter: Jupiter
+  Saturn : Saturne
+  Uranus : Uranus
+  Neptune : Neptune
+  Pluto : Pluton
+  asteroid : astéroïde
+  comet : comète
+  galaxy : galaxie
+  supernova : supernova
+  black_hole : trou noir
+  constellation : constellation
+  meteor : météore
+  satellite : satellite
+  orbit : orbite
+  spacecraft : vaisseau spatial 
+  astronomer : astronome
+  eclipse : éclipse
+  nebula : nébuleuse
+  galaxy_cluster : amas de galaxies
+  telescope : télescope

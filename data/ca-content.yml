@@ -317,3 +317,32 @@ transport:
     - escúter
     - patinet
   skateboard : monopatí
+astronomy :
+  Sun : Sol
+  Moon : Lluna
+  star : estrella
+  planet : planeta
+  Mercury : Mercuri
+  Venus : Venus
+  Earth : Terra
+  Mars : Mart
+  Jupiter: Júpiter
+  Saturn : Saturn
+  Uranus : Urà
+  Neptune : Neptù
+  Pluto : Plutó
+  asteroid : asteroid
+  comet : cometa
+  galaxy : galàxia
+  supernova : supernova
+  black_hole : forat negre
+  constellation : constel·lació
+  meteor : meteòrit
+  satellite : satèl·lit
+  orbit : òrbita
+  spacecraft : nau espacial
+  astronomer : astrònom
+  eclipse : eclipsi
+  nebula : nebulosa
+  galaxy_cluster : cúmul de galàxies
+  telescope : telescopi
