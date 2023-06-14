@@ -363,3 +363,35 @@ astronomy :
   nebula : nebulosa
   galaxy_cluster : aglomerado de galáxias
   telescope : telescópio
+house :
+  sofa : sofá
+  chair : cadeira
+  table : mesa
+  bed : cama
+  wardrobe : 
+    - guarda-roupa
+    - armário
+  TV : televisão
+  kitchen : cozinha
+  stove : fogão
+  oven : forno
+  refrigerator : 
+    - geladeira
+    - refrigerador
+  sink : pia
+  bathroom : banheiro
+  shower : chuveiro
+  bathtub : banheira
+  toilet : vaso sanitário
+  mirror : espelho
+  bedroom : quarto
+  living_room : sala de estar
+  dining_room : sala de jantar
+  garden : jardim
+  garage : garagem
+  balcony : varanda
+  roof : telhado
+  window : janela
+  door : porta
+  floor : piso
+  ceiling : teto

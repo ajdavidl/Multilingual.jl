@@ -320,3 +320,33 @@ astronomy :
   nebula : nebula
   galaxy_cluster : galaxy cluster
   telescope : telescope
+house :
+  sofa : sofa
+  chair : chair
+  table : table
+  bed : bed
+  wardrobe : wardrobe
+  TV :
+    - TV
+    - television
+  kitchen : kitchen
+  stove : stove
+  oven : oven
+  refrigerator : refrigerator
+  sink : sink
+  bathroom : bathroom
+  shower : shower
+  bathtub : bathtub
+  toilet : toilet
+  mirror : mirror
+  bedroom : bedroom
+  living_room : living room
+  dining_room : dining room
+  garden : garden
+  garage : garage
+  balcony : balcony
+  roof : roof
+  window : window
+  door : door
+  floor : floor
+  ceiling : ceiling

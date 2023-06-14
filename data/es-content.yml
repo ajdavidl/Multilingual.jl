@@ -339,3 +339,32 @@ astronomy :
   nebula : nebulosa
   galaxy_cluster : cúmulo de galáxias
   telescope : telescopio
+house :
+  sofa : sofá
+  chair : silla
+  table : mesa
+  bed : cama
+  wardrobe : armario
+  TV : televisión
+  kitchen : cocina
+  stove : estufa
+  oven : horno
+  refrigerator : refrigerador
+  sink : fregadero
+  bathroom : baño
+  shower : ducha
+  bathtub : bañera
+  toilet : inodoro
+  mirror : espejo
+  bedroom : dormitorio
+  living_room : sala de estar
+  dining_room : comedor
+  garden : jardím
+  garage : garaje
+  balcony : balcón
+  roof : techo
+  window : ventana
+  door : puerta
+  floor : piso
+  ceiling : techo
+
