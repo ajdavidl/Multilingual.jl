@@ -316,3 +316,31 @@ astronomy :
   nebula : Nebel
   galaxy_cluster : Galaxienhaufen
   telescope : Teleskop
+house :
+  sofa : Sofa
+  chair : Stuhl
+  table : Tisch
+  bed : Bett
+  wardrobe : Kleiderschrank
+  TV : Fernseher
+  kitchen : Küche
+  stove : Herd
+  oven : Ofen
+  refrigerator : Kühlschrank
+  sink : Spüle
+  bathroom : Badezimmer
+  shower : Dusche
+  bathtub : Badewanne
+  toilet : Toilette
+  mirror : Spiegel
+  bedroom : Schlafzimmer
+  living_room : Wohnzimmer
+  dining_room : Esszimmer
+  garden : Garten
+  garage : Garage
+  balcony : Balkon
+  roof : Dach
+  window : Fenster
+  door : Tür
+  floor : Boden
+  ceiling : Decke

@@ -346,3 +346,31 @@ astronomy :
   nebula : nebulosa
   galaxy_cluster : ammasso di galassie
   telescope : telescopio
+house :
+  sofa : divano
+  chair : sedia
+  table : tavolo
+  bed : letto
+  wardrobe : armadio
+  TV : televisione
+  kitchen : cucina
+  stove : fornello
+  oven : forno
+  refrigerator : frigorifero
+  sink : lavello
+  bathroom : bagno
+  shower : doccia
+  bathtub : vasca
+  toilet : toilette
+  mirror : specchio
+  bedroom : camera da letto
+  living_room : soggiorno
+  dining_room : sala da pranzo
+  garden : giardino
+  garage : garage
+  balcony : balcone
+  roof : tetto
+  window : finestra
+  door : porta
+  floor : pavimento
+  ceiling : soffitto

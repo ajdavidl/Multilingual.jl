@@ -331,3 +331,33 @@ astronomy :
   nebula : nebuloasă
   galaxy_cluster : cătun de galaxii
   telescope : telescop
+house :
+  sofa : canapea
+  chair : scaun
+  table : masă
+  bed : pat
+  wardrobe : dulap
+  TV : televizor
+  kitchen : bucătărie
+  stove : aragaz
+  oven : fierbător
+  refrigerator : frigider
+  sink : chiuvetă
+  bathroom : baie
+  shower : duș
+  bathtub : cadă
+  toilet : toaletă
+  mirror : oglindă
+  bedroom : dormitor
+  living_room : sufragerie
+  dining_room : 
+    - sufragerie
+    - cameră de zi
+  garden : grădină
+  garage : garaj
+  balcony : balcon
+  roof : acoperiş
+  window : fereastră
+  door : ușă
+  floor : podea
+  ceiling : tavan

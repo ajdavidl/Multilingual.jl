@@ -346,3 +346,33 @@ astronomy :
   nebula : nebulosa
   galaxy_cluster : cúmul de galàxies
   telescope : telescopi
+house :
+  sofa : sofà
+  chair : cadira
+  table : taula
+  bed : llit
+  wardrobe : armari
+  TV : televisiò
+  kitchen : cuina
+  stove : forn
+  oven : fogony
+  refrigerator : 
+    - nevera
+    - frigorífic
+  sink : pica
+  bathroom : bany
+  shower : dutxa
+  bathtub : banyera
+  toilet : lavabo
+  mirror : mirall
+  bedroom : dormitori
+  living_room : sala d'estar
+  dining_room : menjador
+  garden : jardí
+  garage : garatge
+  balcony : balcó
+  roof : teulada
+  window : finestra
+  door : porta
+  floor : terra
+  ceiling : sostre
