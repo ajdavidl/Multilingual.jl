@@ -350,3 +350,28 @@ house :
   door : door
   floor : floor
   ceiling : ceiling
+soccer :
+  soccer :
+    - soccer
+    - football
+  player : player
+  team : team
+  goalkeeper : goalkeeper
+  defender : defender
+  midfielder : midfielder
+  forward : forward
+  goal : goal
+  penalty : penalty
+  offside : offside
+  referee : referee
+  stadium : stadium
+  match : match
+  tournament : tournament
+  championship : championship
+  world_cup : world cup
+  league : league
+  captain : captain
+  substitute : substitute
+  foul : foul
+  coach : coach
+  ball : ball

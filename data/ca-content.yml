@@ -376,3 +376,26 @@ house :
   door : porta
   floor : terra
   ceiling : sostre
+soccer :
+  soccer : futbol
+  player : jugador
+  team : equip
+  goalkeeper : porter
+  defender : defensa
+  midfielder : migcampista
+  forward : davant
+  goal : gol
+  penalty : penal
+  offside : fora de joc
+  referee : àrbitre
+  stadium : estadi
+  match : partit
+  tournament : torneig
+  championship : campionat
+  world_cup : copa del món
+  league : lliga
+  captain : capità
+  substitute : substitut
+  foul : falta
+  coach : entrenador
+  ball : pilota

@@ -33,6 +33,7 @@ Available categories:
 - transport
 - astronomy
 - house
+- soccer
 
 ## Usage
 

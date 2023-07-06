@@ -395,3 +395,38 @@ house :
   door : porta
   floor : piso
   ceiling : teto
+soccer :
+  soccer : futebol
+  player : jogador
+  team : 
+    - time
+    - equipe
+  goalkeeper : goleiro
+  defender : 
+    - defensor
+    - zagueiro
+  midfielder : meio-campista
+  forward : atacante
+  goal : gol
+  penalty : pênalti
+  offside : impedimento
+  referee : 
+    - árbitro
+    - juiz
+  stadium : estádio
+  match : 
+    - jogo
+    - partida
+  tournament : torneio
+  championship : campeonato
+  world_cup : copa do mundo
+  league : liga
+  captain : capitão
+  substitute : 
+    - substituto
+    - reserva
+  foul : falta
+  coach : 
+    - treinador
+    - técnico
+  ball : bola

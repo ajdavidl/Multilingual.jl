@@ -344,3 +344,26 @@ house :
   door : Tür
   floor : Boden
   ceiling : Decke
+soccer :
+  soccer : Fußball
+  player : Spieler
+  team : Mannschaft
+  goalkeeper : Torwart
+  defender : Verteidiger
+  midfielder : Mittelfeldspieler
+  forward : Stürmer
+  goal : Tor
+  penalty : Elfmeter
+  offside : Abseits
+  referee : Schiedsrichter
+  stadium : Stadion
+  match : Spiel
+  tournament : Turnier
+  championship : Meisterschaft
+  world_cup : Weltmeisterschaft
+  league : Liga
+  captain : Kapitän
+  substitute : Ersatzspieler
+  foul : Foul
+  coach : Trainer
+  ball : Ball

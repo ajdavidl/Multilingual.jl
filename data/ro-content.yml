@@ -361,3 +361,26 @@ house :
   door : ușă
   floor : podea
   ceiling : tavan
+soccer :
+  soccer : fotbal
+  player : jucător
+  team : echipă
+  goalkeeper : portar
+  defender : fundaș
+  midfielder : mijlocaș
+  forward : atacant
+  goal : gol
+  penalty : penalty
+  offside : offside
+  referee : arbitru
+  stadium : stadion
+  match : meci
+  tournament : turneu
+  championship : campionat
+  world_cup : cupa mondială
+  league : ligă
+  captain : căpitan
+  substitute : rezervă
+  foul : fault
+  coach : antrenorul
+  ball : minge

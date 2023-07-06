@@ -374,3 +374,28 @@ house :
   door : porta
   floor : pavimento
   ceiling : soffitto
+soccer :
+  soccer : calcio
+  player : giocatore
+  team : squadra
+  goalkeeper : portiere
+  defender : difensore
+  midfielder : centrocampista
+  forward : attaccante
+  goal : goal
+  penalty : rigore
+  offside : Fuorigioco
+  referee : arbitro
+  stadium : stadio
+  match : partita
+  tournament : torneo
+  championship : campionato
+  world_cup : coppa del mondo
+  league : lega
+  captain : capitano
+  substitute : sostituto
+  foul : fallo
+  coach : allenatore
+  ball : 
+    - palla
+    - pallone
