@@ -430,3 +430,47 @@ soccer :
     - treinador
     - técnico
   ball : bola
+verbs :
+  eat : comer
+  run : correr
+  sleep : dormir
+  walk : andar
+  swim : nadar
+  read : ler
+  write : escrever
+  speak : falar
+  listen : ouvir
+  sing : cantar
+  dance : dançar
+  jump : pular
+  laugh : rir
+  cry : chorar
+  play : jogar
+  watch : assistir
+  learn : aprender
+  teach : ensinar
+  cook : cozinhar
+  clean : limpar
+  drive : dirigir
+  fly : voar
+  stop : parar
+  start : começar
+  paint : pintar
+  type : digitar
+  like : gostar
+  love : amar
+  hate : 
+    - odiar
+    - detestar
+  look : olhar
+  study : estudar
+  pray : orar
+  have : ter
+  pay : pagar
+  buy : comprar
+  make : fazer
+  win : 
+    - ganhar
+    - vencer
+  lose : perder
+

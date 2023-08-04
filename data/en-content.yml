@@ -375,3 +375,42 @@ soccer :
   foul : foul
   coach : coach
   ball : ball
+verbs :
+  eat : eat
+  run : run
+  sleep : sleep
+  walk : walk
+  swim : swim
+  read : read
+  write : write
+  speak : speak
+  listen : listen
+  sing : sing
+  dance : dance
+  jump : jump
+  laugh : laugh
+  cry : cry
+  play : play
+  watch : watch
+  learn : learn
+  teach : teach
+  cook : cook
+  clean : clean
+  drive : drive
+  fly : fly
+  stop : stop
+  start : start
+  paint : paint
+  type : type
+  like : like
+  love : love
+  hate : hate
+  look : look
+  study : study
+  pray : pray
+  have : have
+  pay : pay
+  buy : buy
+  make : make
+  win : win
+  lose : lose

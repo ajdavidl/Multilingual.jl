@@ -390,3 +390,42 @@ soccer :
   foul : falta
   coach : entrenador
   ball : pelota
+verbs :
+  eat : comer
+  run : correr
+  sleep : dormir
+  walk : caminar
+  swim : nadar
+  read : leer
+  write : escribir
+  speak : hablar
+  listen : escuchar
+  sing : cantar
+  dance : bailar
+  jump : saltar
+  laugh : reír
+  cry : llorar
+  play : jugar
+  watch : ver
+  learn : aprender
+  teach : enseñar
+  cook : cocinar
+  clean : limpiar
+  drive : conducir
+  fly : volar
+  stop : parar
+  start : empezar
+  paint : pintar
+  type : escribir
+  like : gustar
+  love : amar
+  hate : odiar
+  look : mirar
+  study : estudiar
+  pray : orar
+  have : tener
+  pay : pagar
+  buy : comprar
+  make : hacer
+  win : ganar
+  lose : perder
