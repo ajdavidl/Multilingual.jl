@@ -399,3 +399,42 @@ soccer :
   foul : falta
   coach : entrenador
   ball : pilota
+verbs :
+  eat : menjar
+  run : córrer
+  sleep : dormir
+  walk : caminar
+  swim : nedar
+  read : llegir
+  write : escriure
+  speak : parlar
+  listen : escoltar
+  sing : cantar
+  dance : ballar
+  jump : saltar
+  laugh : riure
+  cry : plorar
+  play : jugar
+  watch : mirar
+  learn : aprendre
+  teach : ensenyar
+  cook : cuir
+  clean : netjar
+  drive : conduir
+  fly : volar
+  stop : aturar
+  start : començar
+  paint : pintar
+  type : escriure
+  like : agradar
+  love : estimar
+  hate : odir
+  look : mirar
+  study : estudiar
+  pray : pregar
+  have : tenir
+  pay : pagar
+  buy : comprar
+  make : fer
+  win : guanyar
+  lose : perdre

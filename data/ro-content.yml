@@ -384,3 +384,44 @@ soccer :
   foul : fault
   coach : antrenorul
   ball : minge
+verbs :
+  eat : mânca
+  run : alerga
+  sleep : dormi
+  walk : mergi
+  swim : înota
+  read : citi
+  write : scrie
+  speak : vorbi
+  listen : asculta
+  sing : cânta
+  dance : dansa
+  jump : sări
+  laugh : râde
+  cry : plânge
+  play : juca
+  watch : uita
+  learn : învața
+  teach : 
+    - învața
+    - instrui
+  cook : găti
+  clean : curăța
+  drive : conduce
+  fly : zbura
+  stop : opri
+  start : începe
+  paint : picta
+  type : tasta
+  like : plăcea
+  love : iubi
+  hate : ura
+  look : privi
+  study : studia
+  pray : ruga
+  have : avea
+  pay : plăti
+  buy : cumpăra
+  make : face
+  win : câștiga
+  lose : pierde
