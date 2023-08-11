@@ -399,3 +399,42 @@ soccer :
   ball : 
     - ballon
     - balle
+verbs :
+  eat : manger
+  run : courir
+  sleep : dormir
+  walk : marcher
+  swim : nager
+  read : lire
+  write : écrire
+  speak : parler
+  listen : écouter
+  sing : chanter
+  dance : danser
+  jump : sauter
+  laugh : rire
+  cry : pleurer
+  play : jouer
+  watch : regarder
+  learn : apprendre
+  teach : enseigner
+  cook : cuisiner
+  clean : nettoyer
+  drive : conduire
+  fly : voler
+  stop : arrêter
+  start : commencer
+  paint : peindre
+  type : taper
+  like : aimer
+  love : aimer
+  hate : détester
+  look : regarder
+  study : étudier
+  pray : prier
+  have : avoir
+  pay : payer
+  buy : acheter
+  make : faire
+  win : gagner
+  lose : perdre

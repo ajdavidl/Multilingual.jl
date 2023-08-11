@@ -367,3 +367,42 @@ soccer :
   foul : Foul
   coach : Trainer
   ball : Ball
+verbs :
+  eat : Essem
+  run : Laufen
+  sleep : Schlafen
+  walk : Gehen
+  swim : Schwimmen
+  read : Lesen
+  write : Schreiben
+  speak : Sprechen
+  listen : Hören
+  sing : Singen
+  dance : Tanzen
+  jump : Springen
+  laugh : Lachen
+  cry : Weinen
+  play : Spielen
+  watch : Anschauen
+  learn : Learnen
+  teach : Lehren
+  cook : Kochen
+  clean : Putzen
+  drive : Fahren
+  fly : Fliegen
+  stop : Anhalten
+  start : Anfangen
+  paint : Malen
+  type : Tippen
+  like : Mögen
+  love : Lieben
+  hate : Hassen
+  look : Schauen
+  study : Studieren
+  pray : Beten
+  have : Haben
+  pay : Zahlen
+  buy : Kaufen
+  make : Machen
+  win : Gewinnen
+  lose : Verlieren
