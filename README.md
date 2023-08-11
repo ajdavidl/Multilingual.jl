@@ -34,6 +34,27 @@ Available categories:
 - astronomy
 - house
 - soccer
+- verbs
+
+## Install
+
+Clone the repository, open Julia, activate the environment and load the package. Follow the commands:
+
+```shell
+git clone https://github.com/ajdavidl/Multilingual.jl.git
+cd Multilingual.jl
+julia
+```
+Then:
+
+```Julia
+julia> # Press ']' key.
+(@v1.9) pkg>
+(@v1.9) pkg> activate .
+  Activating project at `Multilingual.jl`
+(Multilingual) pkg> 
+julia> using Multilingual
+```
 
 ## Usage
 
@@ -124,4 +145,4 @@ Dict{Any, Any} with 14 entries:
 
 ## Contributing
 
-Pull requests are welcome.
+Pull requests are welcome. You can help adding new languages and news categories of words. You can also help fixing mistakes in the translations.
