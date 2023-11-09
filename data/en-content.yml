@@ -13,6 +13,16 @@ colors:
   beige: beige
   silver: silver
   gold: gold
+people:
+  man: man
+  woman: woman
+  boy: boy
+  girl: girl
+  people: people
+  male: male
+  female: female
+  baby: baby
+  teenager: teenager
 family:
   family: family
   parents: parents

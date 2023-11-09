@@ -23,6 +23,20 @@ colors:
   beige: bege
   silver: prata
   gold: ouro
+people:
+  man: homem
+  woman: mulher
+  boy: 
+    - menino
+    - garoto
+  girl: 
+    - menina
+    - garota
+  people: pessoas
+  male: masculino
+  female: feminino
+  baby: bebê
+  teenager: adolescente
 family:
   family: família
   parents: pais
