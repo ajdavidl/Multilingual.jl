@@ -27,6 +27,16 @@ colors:
   gold: 
     - oro
     - dorado
+people:
+  man: hombre
+  woman: mujer
+  boy: niño
+  girl: niña
+  people: personas
+  male: masculino
+  female: feminino
+  baby: bebé
+  teenager: adolescente
 family:
   family: familia
   parents: padres
