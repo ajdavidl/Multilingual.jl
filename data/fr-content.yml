@@ -27,6 +27,16 @@ colors:
   beige: beige
   silver: argent
   gold: or
+people:
+  man: homme
+  woman: femme
+  boy: garçon
+  girl: fille
+  people: gens
+  male: masculin
+  female: féminin
+  baby: bèbè
+  teenager: adolescent
 family:
   family: la famille
   parents: les parents

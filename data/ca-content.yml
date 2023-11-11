@@ -29,6 +29,16 @@ colors:
     - plata
     - platejat
   gold: daurat
+people:
+  man: home
+  woman: dona
+  boy: noi
+  girl: noia
+  people: persones
+  male: masculí
+  female: femení
+  baby: nadó
+  teenager: adolescent
 family:
   family: la família
   parents: els pares
