@@ -15,6 +15,16 @@ colors:
   beige: beige
   silver: silber
   gold: gold
+people:
+  man: Mann
+  woman: Frau
+  boy: Junge
+  girl: Mädchen
+  people: Menschen
+  male: Männlich
+  female: Weiblich
+  baby: Baby
+  teenager: Teenager
 family:
   family: die Familie
   parents: die Eltern
