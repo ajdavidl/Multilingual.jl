@@ -20,6 +20,7 @@ Available languages:
 
 Available categories:
 - colors
+- people
 - family
 - week
 - months
