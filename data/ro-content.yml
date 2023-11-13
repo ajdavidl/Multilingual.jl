@@ -24,6 +24,16 @@ colors:
   beige: beige
   silver: argint
   gold: aur
+people:
+  man: bărbat
+  woman: femeie
+  boy: băiat
+  girl: fată
+  people: oameni
+  male: masculin
+  female: feminin
+  baby: bebeluș
+  teenager: adolescent
 family:
   family: familie
   parents: 
