@@ -23,3 +23,80 @@ people:
   female: femininus
   baby: infans
   teenager: puer
+family:
+  family: familia
+  parents: parentes
+  father: pater
+  mother: mater
+  children: 
+    - liberi
+    - filii
+  son: filius
+  daughter: filia
+  husband: maritus
+  wife: uxor
+  brother: frater
+  sister: soror
+  uncle: 
+    - patruus
+    - avunculus
+    - thius
+  aunt: 
+    - matertera
+    - amita
+    - thia
+  cousin: 
+    - consobrinus
+    - consobrina
+  nephew: 
+    - filius fratis
+    - filius sororis
+  niece: 
+    - filia fratis
+    - filia sororis
+  grandfather: avus
+  grandmother: avia
+  grandchildren: 
+    - nepos
+    - neptis
+  grandson: nepos
+  granddaughter: neptis
+  father-in-law: socer
+  mother-in-law: socrus
+  brother-in-law: 
+    - cognatus
+    - levir
+  sister-in-law: 
+    - glos
+    - sororius
+week:
+  yesterday: heri
+  today: hodie
+  tomorrow: cras
+  week: hebdomas
+  weekend: septimana vergens
+  Monday: dies lunae
+  Tuesday: dies martis
+  Wednesday: dies mercuri
+  Thursday: dies iovis
+  Friday: dies veneris
+  Saturday: dies saturni
+  Sunday: dies solis
+months:
+  January: Ianuarius
+  February: Februarius
+  March: Martius
+  April: Aprilis
+  May: Maius
+  June: Iunius
+  July: Iulius
+  August: Augustus
+  September: September
+  October: October
+  November: November
+  December: December
+seasons:
+  Spring: ver
+  Summer: aestas
+  Autumn: autumnus
+  Winter: hiems
