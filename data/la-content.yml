@@ -1,0 +1,25 @@
+colors:
+  black: niger
+  white: albus
+  red: ruber
+  yellow: flavus
+  blue: caeruleus 
+  green: viridis
+  brown: brunneus
+  pink: roseus
+  orange: arantius
+  grey: canus
+  purple: purpura
+  beige: beige
+  silver: argentum
+  gold: aurum
+people:
+  man: vir
+  woman: femina
+  boy: puer
+  girl: puella
+  people: populus
+  male: masculus
+  female: femininus
+  baby: infans
+  teenager: puer
