@@ -100,3 +100,79 @@ seasons:
   Summer: aestas
   Autumn: autumnus
   Winter: hiems
+greetings:
+  welcome: salve
+  hello: 
+    - salve
+    - salvete
+numbers:
+  0: nihil
+  1: 
+    - unus
+    - una
+    - unum
+  2: 
+    - duo
+    - duae
+    - duo
+  3: 
+    - tres
+    - tria
+  4: quattuor
+  5: quinque
+  6: sex
+  7: septem
+  8: octo
+  9: novem
+  10: decem
+  11: undecim
+  12: duodecim
+  13: tredecim
+  14: quattuordecim
+  15: quindecim
+  16: sedecim
+  17: septendecim
+  18: duodeviginti
+  19: undeviginti
+  20: viginti
+  30: triginta
+  40: quadraginta
+  50: quinquaginta
+  60: sexaginta
+  70: septuaginta
+  80: octoginta
+  90: nonaginta
+  100: centum
+  200: 
+    - ducenti
+    - ducentae
+    - ducenta
+  300: 
+    - trecenti
+    - trecentae
+    - trecenta
+  400: 
+    - quadrigenti
+    - quadrigentae
+    - quadrigenta
+  500: 
+    - quingenti
+    - quingentae
+    - quingenta
+  600: 
+    - sescenti
+    - sescentae
+    - sescenta
+  700: 
+    - septingenti
+    - septingentae
+    - septingenta
+  800: 
+    - octingenti
+    - octingentae
+    - octingenta
+  900: 
+    - nongenti
+    - nongentae
+    - nongenta
+  1000: mille
