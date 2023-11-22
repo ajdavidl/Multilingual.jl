@@ -176,3 +176,63 @@ numbers:
     - nongentae
     - nongenta
   1000: mille
+animals:
+  dog: canis
+  cat: felles
+  horse: equus
+  bird: avis
+  cow: vacca
+  pig: porcus
+  whale: balaena
+  dolphin: delphinus
+  ant: formica
+  ape: simia
+  bat: vespertilio
+  bear: ursus
+  beaver: castor
+  beetle: scarabaeus
+  bull: taurus
+  butterfly: papilio
+  camel: camelus
+  crab: cancer
+  crocodile: crocodilus
+  duck: anas
+  eagle: aquila
+  elephant: elephantus
+  fly: musca
+  fox: vulpes
+  frog: rana
+  giraffe: giraffa
+  gnu: connochaetes 
+  goat: capra
+  goose: anser
+  gorilla: gorilla
+  hawk: accipiter
+  hedgehog: ericius
+  hippopotamus: hippopotamus
+  hyena: hyaena
+  iguana: iguana
+  jellyfish: halipleumon
+  kangaroo: halmaturus
+  koala: phascolarctos cinereus
+  ladybug: coccinella
+  lion: leo
+  monkey: simia
+  mosquito: culex
+  mouse: mus
+  octopus: polypus
+  owl: ulula
+  parrot: psittacus
+  penguin: spheniscidae
+  pigeon: columba
+  rabbit: cuniculus
+  salmon: salmo
+  seahorse: hippocampus
+  shark: squalus
+  snake: serpens
+  spider: aranea
+  tiger: tigris
+  turtle: testudo
+  walrus: odobaenus rosmarus 
+  wolf: lupus
+  zebra: equus zebra
