@@ -236,3 +236,66 @@ animals:
   walrus: odobaenus rosmarus 
   wolf: lupus
   zebra: equus zebra
+shapes:
+  square: quadratum
+  rectangle: rectangulum
+  triangle: triangulum
+  circle: circulus
+  oval: ovum
+  diamond: rhombus
+  heart: cor
+  star: stella
+  pentagon: pentagonum
+  hexagon: hexagonum
+  heptagon: heptagonum
+  octagon: octagonum
+  parallelogram: parallelogramma
+  trapezoid: trapezium
+  rhombus: rhombus
+  cross: crux
+  semicircle: hemicyclium
+  sphere: sphaera
+  cylinder: cylindrus
+  cube: cubus
+  cone: conus
+  pyramid: pyramis
+  octahedron: octahedron
+  dodecahedron: dodecahedron
+body:
+  head: caput
+  hair: capillus
+  eye: oculus
+  ear: auris
+  nose: nasus
+  mouth: 
+    - os
+    - bucca
+  lips: labia
+  teeth: dens
+  tongue: lingua
+  cheek: bucca
+  chin: mentum
+  neck: collum
+  chest: 
+    - arca
+    - pectus
+  arm: bracchium
+  hand: manus
+  shoulder: umerus
+  elbow: cubitus
+  upper_arm: armus
+  forearm:
+    - antebrachium 
+    - bracchium
+  wrist: carpus
+  finger: digitus
+  nail: unguis
+  palm: palma
+  breasts: mamillae
+  belly_button: umbilicus
+  legs: crus
+  feet: pes
+  knee: genu
+  ankle: talus
+  toe: digitus
+  heel: calx
