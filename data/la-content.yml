@@ -299,3 +299,67 @@ body:
   ankle: talus
   toe: digitus
   heel: calx
+fruits:
+  apple: 
+    - malum
+    - pomum
+  apricot: armeniacum
+  avocado: persea americana
+  banana: banana
+  blackberry: rubus
+  blueberry: vaccinium myrtillus
+  cherry: cerasus
+  coconut: cocos nucifera
+  drangonfruit: draco fructum
+  fig: ficus
+  grape: uva
+  grapefruit: pompelmus
+  guava: psidium guajava
+  jackfruit: artocarpus heterophyllus
+  kiwi: kiwi
+  lemon: citreus
+  lime: calx
+  mango: aniba
+  melon: cucumis melo
+  orange: arantius
+  papaya: carica papaya
+  peach: persicum
+  pear: pirum
+  pineapple: ananas
+  plum: prunum
+  pomegranate: malogranatum
+  raspberry: rubus
+  starfruit: averrhoa carambola
+  strawberry: fragum
+  tangerine: citrus tangerina
+  watermelon: citrullus lanatus
+transport:
+  car : 
+    - autocinetum
+    - carrus
+  truck : 
+    - carrus
+    - autocinetum onerarium
+  taxi : taxiraeda
+  train : hamaxostichus
+  bullet train : trenum pilae
+  airplane : aereoplanum
+  zeppelin : aeronavis
+  bus : 
+    - laophorum
+    - omnibus
+  bicycle : birota
+  motorcycle : 
+    - birota automataria
+    - autobirota
+  ambulance : arcera
+  boat : navis
+  yacht : 
+    - celox
+    - lembus
+  helicopter : helicopterus 
+  rocket : rucheta
+  subway : ferrivia metropolitana
+  tram : currus electricus
+  scooter : birota automataria
+  skateboard : tabula subrotata
