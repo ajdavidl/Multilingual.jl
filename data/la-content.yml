@@ -363,3 +363,32 @@ transport:
   tram : currus electricus
   scooter : birota automataria
   skateboard : tabula subrotata
+astronomy :
+  Sun : sol
+  Moon : luna
+  star : stella
+  planet : planeta
+  Mercury : Mercurius
+  Venus : venus
+  Earth : terra
+  Mars : mars
+  Jupiter: iuppiter
+  Saturn : saturnus
+  Uranus : uranus
+  Neptune : neptunus
+  Pluto : pluto
+  asteroid : asteroides
+  comet : cometes
+  galaxy : galaxias
+  supernova : supernova
+  black_hole : gurges ater
+  constellation : sidus
+  meteor : cometes
+  satellite : satellites
+  orbit : orbita
+  spacecraft : astronavis 
+  astronomer : astronomus
+  eclipse : eclipsis
+  nebula : nebula
+  galaxy_cluster : congeries galaxiarum
+  telescope : telescopium
