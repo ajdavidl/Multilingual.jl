@@ -392,3 +392,31 @@ astronomy :
   nebula : nebula
   galaxy_cluster : congeries galaxiarum
   telescope : telescopium
+house :
+  sofa : lectus
+  chair : sella
+  table : mensa
+  bed : lectus
+  wardrobe : armarium
+  TV : televisiorium
+  kitchen : coquina
+  stove : caminus
+  oven : fornax
+  refrigerator : armarium frigidarium
+  sink : lavacrum
+  bathroom : balneum
+  shower : delvium
+  bathtub : balineum
+  toilet : latrina
+  mirror : speculum
+  bedroom : cubiculum
+  living_room : atrium
+  dining_room : cenatio
+  garden : hortus
+  garage : stabulum autocineticum
+  balcony : maenianum
+  roof : tectum
+  window : fenestra
+  door : ianua
+  floor : solum
+  ceiling : lacunar
