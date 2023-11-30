@@ -2,7 +2,7 @@ module Multilingual
 
 import YAML
 
-const global LANGUAGES = ["pt", "en", "es", "it", "fr", "de", "ro", "ca"]
+const global LANGUAGES = ["pt", "en", "es", "it", "fr", "de", "ro", "ca", "la"]
 
 export content, readData, compare
 
@@ -13,7 +13,7 @@ export content, readData, compare
 Reads the YAML file with all words and categories for the specified language.
 
 # Argument
-- `language::AbstractString` : the target language code. Examples: "en", "es", "pt", "it", "fr", "ca", "ro", "de"
+- `language::AbstractString` : the target language code. Examples: "en", "es", "pt", "it", "fr", "ca", "ro", "de", "la"
 
 
 # Example
@@ -66,8 +66,8 @@ end
 Prints the words of a category in two specified languages. It compares the words in the two languages.
 
 # Arguments
-- `language1::AbstractString` : the language code. Examples: "en", "es", "pt", "it", "fr", "ca", "ro", "de"
-- `language2::AbstractString` : the language code. Examples: "en", "es", "pt", "it", "fr", "ca", "ro", "de"
+- `language1::AbstractString` : the language code. Examples: "en", "es", "pt", "it", "fr", "ca", "ro", "de", "la"
+- `language2::AbstractString` : the language code. Examples: "en", "es", "pt", "it", "fr", "ca", "ro", "de", "la"
 - `category::AbstractString` : the category of the words. Examples: colors, family, week, greetings and others.
 
 
