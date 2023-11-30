@@ -426,21 +426,21 @@ soccer :
   team : turma
   goalkeeper : portarius
   defender : defensor
-  midfielder : -
-  forward : -
-  goal : -
-  penalty : -
-  offside : -
+  midfielder : "-"
+  forward : "-"
+  goal : "-"
+  penalty : "-"
+  offside : "-"
   referee : arbiter
   stadium : stadium
-  match : -
+  match : "-"
   tournament : torneamentum
   championship : campionatus
   world_cup : certamen mundanum pedilusorium 
-  league : -
+  league : "-"
   captain : capitaneus
   substitute : substituo
-  foul : -
+  foul : "-"
   coach : exercitator
   ball : pila
 verbs :
